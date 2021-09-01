@@ -1,24 +1,7 @@
-# README
+# InsuranceService Light
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a very simplified version of an InsuranceService which manages insurance products and allows
+to retrieve prices for products as well as purchase insurance coverage.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is intended to be used for interview challenges, it is not supposed to run but only to illustrate
+a potential piece of a service.
